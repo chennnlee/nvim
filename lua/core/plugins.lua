@@ -1,5 +1,8 @@
 require("lazy").setup({
   { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+  "roxma/vim-tmux-clipboard",
+  "voldikss/vim-floaterm",
+  "windwp/nvim-autopairs",
   "tpope/vim-commentary",
   "mattn/emmet-vim",
   "nvim-tree/nvim-tree.lua",
